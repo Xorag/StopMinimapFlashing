@@ -2,6 +2,6 @@
 ## Version: 10.0.0
 ## Title: StopMinimapFlashing
 ## Author: Xorag
-## Notes: Supress the flashing/pulsing light on the covenent icon
+## Notes: Supress the flashing/pulsing light on the covenant icon
 
 stopminimapflashing.lua
