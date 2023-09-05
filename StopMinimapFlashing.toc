@@ -1,7 +1,7 @@
-## Interface: 100100
-## Version: 10.1.0.1
+## Interface: 100107
+## Version: 10.1.7.1
 ## Title: StopMinimapFlashing
 ## Author: Xorag
-## Notes: Suppress the flashing/pulsing light on the covenant icon
+## Notes: Suppress the flashing/pulsing light on the renown icon
 
 stopminimapflashing.lua
