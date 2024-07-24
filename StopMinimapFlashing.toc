@@ -1,5 +1,5 @@
-## Interface: 100205
-## Version: 10.2.5.1
+## Interface: 110002
+## Version: 11.0.2.1
 ## Title: StopMinimapFlashing
 ## Author: Xorag
 ## Notes: Suppress the flashing/pulsing light on the renown icon
